@@ -121,7 +121,7 @@ body {
   scroll-behavior: smooth;
   background: url("../img/Bg.png");
   background-repeat: no-repeat;
-  background-position: 100% 100%;
+  background-position: top / 100% 100%;
 }
 @media (max-width: 767.98px) {
   body {
